@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LingoProject TargetLanguage="ar;es" xml:lang="ar" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="10" flattenSnippets="false" SelectedTarget="" SourceSourceControlBound="true" SourceSourceControlProviderType="Microsoft Team Foundation Server" SourceSourceControlDatabase="https://win2k12tfs17.madcapsoftware.com/tfs/" SourceSourceControlDatabaseRoot="$/Default/1212tfs" SourceProjectGuid="5543b240-2189-4a2a-bce9-daf492cfc66d" SourceControlDatabaseRoot="C:\Users\rallahwerdy\Documents\My Translated Projects\NewProject260.liprjf" SourceControlDatabase="C:\Users\rallahwerdy\Documents\My Translated Projects\NewProject260.liprjf\.git" SourceControlBound="true" SourceControlProviderType="Git" ProjectGuid="a3232256-8622-4c28-827c-34f382358952">
+    <ProjectFile Source="Target/1212tfs.flprj" Target="Target/1212tfs.flprj" />
+</LingoProject>
